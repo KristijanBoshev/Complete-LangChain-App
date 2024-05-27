@@ -12,3 +12,5 @@ bs4
 pypdf
 chromadb
 faiss-cpu
+groq
+langchain-groq
